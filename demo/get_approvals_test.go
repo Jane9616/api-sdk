@@ -4,7 +4,7 @@ import (
 	"testing"
 	"time"
 
-	apisdk "golang"
+	apisdk "api-sdk"
 	// "github.com/tidwall/gjson"
 )
 
